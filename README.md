@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShaswatSRaghuvansi
+- 👋 Hi, I’m Shaswat, a Computer Science Engineer with an MBA in Marketing and Human Resources.
 - 💞️ I’m looking to collaborate on any open source platform.
 - 👀 I’m interested in Open Source, Web Development, UI/UX and Programming.
 - 💡 I am currently focusing on Data Structures and Algorithm and building my portfolio.
