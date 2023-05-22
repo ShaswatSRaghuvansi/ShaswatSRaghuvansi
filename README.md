@@ -3,11 +3,11 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+ 👋 +I'm+Shaswat Singh Raghuvansi;Aspiring+Full-Stack+Web+Developer+From+India.&%20Code&center=true&width=700&height=50&weight=700&size=25&duration=2000&pause=2000">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </p> 
 
 
-<img align="right" alt="coding" width="375" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="coding" width="375" src="https://img.devrant.com/devrant/rant/r_20148_pyyhm.jpg">
 
 ## 💫 About Me:
 🌱 I’m currently enlightening myself with Java & Springboot.
