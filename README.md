@@ -59,11 +59,7 @@
 
 ## 📊 GitHub Stats:
 <!-- Total Stats -->
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=shaswat-s-raghuvansi&theme=gotham&hide_border=false&include_all_commits=false&count_private=true)
-<!-- Streak Stats -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=shaswat-s-raghuvansi&theme=gotham&hide_border=false)<br/>
-<!-- Top Languages -->
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shaswat-s-raghuvansi&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=shaswat-s-raghuvansi&theme=gotham&hide_border=false&include_all_commits=false&count_private=true)<!-- Streak Stats -->       ![](https://github-readme-streak-stats.herokuapp.com/?user=shaswat-s-raghuvansi&theme=gotham&hide_border=false)
 
 <br>
 <!---
@@ -73,4 +69,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<p>Thanks for visiting my profile. 🙏<br>Feel free to drop a message for any suggestion or collaboration, and we can get in touch. 🤝</p>
+<p>Thanks for visiting my profile. ✨<br>Feel free to drop a message for any suggestion or collaboration, and we can get in touch. 🤝</p>
