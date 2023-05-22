@@ -59,7 +59,7 @@
 
 ## 📊 GitHub Stats:
 <!-- Total Stats -->
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=shaswat-s-raghuvansi&theme=gotham&hide_border=false&include_all_commits=false&count_private=true)<!-- Streak Stats --> ![](https://github-readme-streak-stats.herokuapp.com/?user=shaswat-s-raghuvansi&theme=gotham&hide_border=false)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=shaswat-s-raghuvansi&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<!-- Streak Stats --> ![](https://github-readme-streak-stats.herokuapp.com/?user=shaswat-s-raghuvansi&theme=gotham&hide_border=false)
 
 <br>
 <!---
