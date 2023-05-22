@@ -23,7 +23,7 @@
 🤝 I’m also reachable at shaswat.sr13@gmail.com
 
 <br>
-- 📫 You can connect with me via this <a href="www.linkedin.com/in/shaswat-singh-raghuvansi">Link</a> or by <a href="mailto:shaswat.sr13@gmail.com">Mail</a>.
+- 📫 You can connect with me via this <a href="https://www.linkedin.com/in/shaswat-singh-raghuvansi/">Link</a> or by <a href="mailto:shaswat.sr13@gmail.com">Mail</a>.
 
 
 ## 💻 Tech Stack:
