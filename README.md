@@ -37,7 +37,7 @@
 
 <br>
 
-## 🛠️ Tools:
+## 🔮 Tools:
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/STS-58b531?style=for-the-badge&logo=spring&logoColor=white" alt="sts"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MySQL-CommandLine-bcae79?style=for-the-badge&logo=mysql&logoColor=white" alt="codepen" />&nbsp;&nbsp;
@@ -57,7 +57,7 @@
 
 <br>
 
-## 📊 GitHub Stats:
+## 📈 GitHub Stats:
 <!-- Total Stats -->
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=shaswat-s-raghuvansi&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<!-- Streak Stats --> ![](https://github-readme-streak-stats.herokuapp.com/?user=shaswat-s-raghuvansi&theme=gotham&hide_border=false)
 
