@@ -51,6 +51,21 @@
 
 
 <br>
+
+## ⚡ Activity Graph
+<img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=shaswat-s-raghuvansi&theme=gotham&hide_border=true"/>
+
+<br>
+
+## 📊 GitHub Stats:
+<!-- Total Stats -->
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=shaswat-s-raghuvansi&theme=gotham&hide_border=false&include_all_commits=false&count_private=true)
+<!-- Streak Stats -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=shaswat-s-raghuvansi&theme=gotham&hide_border=false)<br/>
+<!-- Top Languages -->
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shaswat-s-raghuvansi&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+<br>
 <!---
 ShaswatSRaghuvansi/ShaswatSRaghuvansi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
