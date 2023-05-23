@@ -1,4 +1,3 @@
-
 <br>
 
 <p align="center">
@@ -69,7 +68,7 @@
 
 
 <!-- Streak Stats -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shaswat-s-raghuvansi&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=455&stroke=EBEBEB&dates=181360F1&ring=006AFF&fire=423FE5&currStreakNum=423FE5&sideNums=423FE5&currStreakLabel=423FE5&sideLabels=FFFFFF%2CFFFFFF&background=FFFFFFD1&border=EEECEC)](https://git.io/streak-stats) <!-- Total Stats --> ![shaswat-s-raghuvansi's Stats](https://github-readme-stats.vercel.app/api?username=shaswat-s-raghuvansi&theme=default&show_icons=true&hide_border=false&count_private=true)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shaswat-s-raghuvansi&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=455&stroke=EBEBEB&dates=181360F1&ring=006AFF&fire=423FE5&currStreakNum=423FE5&sideNums=423FE5&currStreakLabel=423FE5&sideLabels=FFFFFF%2CFFFFFF&background=FFFFFFD1&border=EEECEC)](https://git.io/streak-stats)" alt="shaswat-s-raghuvansi" width="45%"/> <!-- Total Stats --> <space> <space> <img src="https://github-readme-stats.vercel.app/api?username=shaswat-s-raghuvansi&show_icons=true&locale=en" alt="shaswat-s-raghuvansi" height="150%" width="45%"/>
 
 <br>
 <!---
