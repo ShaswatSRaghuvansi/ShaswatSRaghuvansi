@@ -6,7 +6,7 @@
 </p> 
 
 
-<img align="right" alt="coding" width="375" src="https://img.devrant.com/devrant/rant/r_20148_pyyhm.jpg">
+<img align="right" alt="coding" width="375" src="https://img.devrant.com/devrant/rant/r_20148_pyyhm.jpg" height="250px">
 
 ## 💫 About Me:
 🌱 I’m currently enlightening myself with Java & Springboot.
