@@ -22,12 +22,15 @@
 🤝 I’m also reachable at shaswat.sr13@gmail.com
 
 <br>
-- 📫 You can connect with me via this <a href="https://www.linkedin.com/in/shaswat-singh-raghuvansi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a> or by <a href="mailto:shaswat.sr13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/></a>.
 
+📫 You can connect with me via this <a href="https://www.linkedin.com/in/shaswat-singh-raghuvansi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a> or by <a href="mailto:shaswat.sr13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/></a>.
+
+<br>
 
 ## 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;&nbsp; 
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;&nbsp; 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;
@@ -64,8 +67,6 @@
 <br>
 
 ## 📈 GitHub Stats:
-
-
 <!-- Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=shaswat-s-raghuvansi&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=455&stroke=EBEBEB&dates=181360F1&ring=006AFF&fire=423FE5&currStreakNum=423FE5&sideNums=423FE5&currStreakLabel=423FE5&sideLabels=FFFFFF%2CFFFFFF&background=FFFFFFD1&border=EEECEC)](https://git.io/streak-stats)" alt="shaswat-s-raghuvansi" width="45%"/> <!-- Total Stats --> <space> <space> <img src="https://github-readme-stats.vercel.app/api?username=shaswat-s-raghuvansi&show_icons=true&locale=en" alt="shaswat-s-raghuvansi" height="150%" width="45%"/>
 
