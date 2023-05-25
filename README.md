@@ -13,9 +13,9 @@
 <br>
 💬 Ask me about HTML, CSS & JavaScript.
 <br>
-👨‍💻 All my projects are available in the [repository section](https://github.com/shaswat-s-raghuvansi?tab=repositories).
+👨‍💻 All my projects are available in the [repository section](https://github.com/ShaswatSRaghuvansi?tab=repositories).
 <br>
-👨🏻‍🎓 Visit my [Portfolio](https://shaswat-s-raghuvansi.github.io/portfolio/).
+👨🏻‍🎓 Visit my [Portfolio](https://ShaswatSRaghuvansi.github.io/portfolio/).
 <br>
 🔭 Know more about me and my experiences [My Resume](https://drive.google.com/file/d/1-qOyvu6zrT9uGPYnULMygT0agZHLRpdX/view?usp=share_link).
 <br>
@@ -62,13 +62,13 @@
 <br>
 
 ## ⚡ Activity Graph
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaswat-s-raghuvansi&theme=transparent" width="100%" border="10px" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShaswatSRaghuvansi&theme=transparent" width="100%" border="10px" />
 
 <br>
 
 ## 📈 GitHub Stats:
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shaswat-s-raghuvansi&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=455&stroke=EBEBEB&dates=181360F1&ring=006AFF&fire=423FE5&currStreakNum=423FE5&sideNums=423FE5&currStreakLabel=423FE5&sideLabels=FFFFFF%2CFFFFFF&background=FFFFFFD1&border=EEECEC)](https://git.io/streak-stats)" alt="shaswat-s-raghuvansi" width="45%"/> <!-- Total Stats --> <space> <space> <img src="https://github-readme-stats.vercel.app/api?username=shaswat-s-raghuvansi&show_icons=true&locale=en" alt="shaswat-s-raghuvansi" height="150%" width="45%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ShaswatSRaghuvansi&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=455&stroke=EBEBEB&dates=181360F1&ring=006AFF&fire=423FE5&currStreakNum=423FE5&sideNums=423FE5&currStreakLabel=423FE5&sideLabels=FFFFFF%2CFFFFFF&background=FFFFFFD1&border=EEECEC)](https://git.io/streak-stats)" alt="shaswat-s-raghuvansi" width="45%"/> <!-- Total Stats --> <space> <space> <img src="https://github-readme-stats.vercel.app/api?username=ShaswatSRaghuvansi&show_icons=true&locale=en" alt="shaswat-s-raghuvansi" height="150%" width="45%"/>
 
 <br>
 <!---
