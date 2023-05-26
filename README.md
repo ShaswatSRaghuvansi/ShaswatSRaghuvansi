@@ -15,7 +15,7 @@
 <br>
 👨‍💻 All my projects are available in the [repository section](https://github.com/ShaswatSRaghuvansi?tab=repositories).
 <br>
-👨🏻‍🎓 Visit my [Portfolio](https://ShaswatSRaghuvansi.github.io/portfolio/).
+👨🏻‍🎓 Visit my [Portfolio](https://ShaswatSRaghuvansi.github.io).
 <br>
 🔭 Know more about me and my experiences [My Resume](https://drive.google.com/file/d/1-qOyvu6zrT9uGPYnULMygT0agZHLRpdX/view?usp=share_link).
 <br>
