@@ -1,5 +1,6 @@
 <br>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+ 👋 +I'm+Shaswat Singh Raghuvansi;Aspiring+Full-Stack+Web+Developer+From+India.&%20Code&center=true&width=700&height=50&weight=700&size=25&duration=2000&pause=2000">
 
