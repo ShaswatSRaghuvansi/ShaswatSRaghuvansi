@@ -66,7 +66,11 @@
 
 ## 📈 GitHub Stats:
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ShaswatSRaghuvansi&theme=transparent&date_format=j%20M%5B%20Y%5D&card_width=455&stroke=EBEBEB&dates=181360F1&ring=006AFF&fire=423FE5&currStreakNum=423FE5&sideNums=423FE5&currStreakLabel=423FE5&sideLabels=FFFFFF%2CFFFFFF&background=FFFFFFD1&border=EEECEC)](https://git.io/streak-stats)" alt="shaswat-s-raghuvansi" width="45%"/> <!-- Total Stats --> <space> <space> <img src="https://github-readme-stats.vercel.app/api?username=ShaswatSRaghuvansi&show_icons=true&locale=en" alt="shaswat-s-raghuvansi" height="150%" width="45%"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ShaswatSRaghuvansi&show_icons=true&theme=tokyonight&border_radus=10" height="255px" width="47%"/>
+ 
+
+
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=ShaswatSRaghuvansi&theme=tokyonight&border_radius=10" alt="Ashish0076" height="250px" width="47%" />
 
 <br>
 <!---
