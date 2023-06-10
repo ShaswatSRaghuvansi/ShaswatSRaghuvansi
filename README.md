@@ -1,9 +1,11 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 <br>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+ 👋 +I'm+Shaswat Singh Raghuvansi;Aspiring+Full-Stack+Web+Developer+From+India.&%20Code&center=true&width=700&height=50&weight=700&size=25&duration=2000&pause=2000">
 
 </p> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
 
 <img align="right" alt="coding" width="375" src="https://img.devrant.com/devrant/rant/r_20148_pyyhm.jpg" height="250px">
@@ -66,18 +68,20 @@
 
 ## 📈 GitHub Stats:
 <!-- Streak Stats -->
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=ShaswatSRaghuvansi&theme=tokyonight&border_radius=10" alt="ShaswatSRaghuvansi" height="250px" width="47%" />
+
+
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ShaswatSRaghuvansi&show_icons=true&theme=tokyonight&border_radus=10" height="255px" width="47%"/>
  
 
-
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=ShaswatSRaghuvansi&theme=tokyonight&border_radius=10" alt="Ashish0076" height="250px" width="47%" />
-
-<br>
+<br><br><br><br><br><br><br><br><br><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+<p>Thanks for visiting my profile. ✨<br>
+Feel free to drop a message for any suggestion or collaboration, and we can get in touch. 🤝</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 <!---
 ShaswatSRaghuvansi/ShaswatSRaghuvansi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-
-
-<p>Thanks for visiting my profile. ✨<br>Feel free to drop a message for any suggestion or collaboration, and we can get in touch. 🤝</p>
