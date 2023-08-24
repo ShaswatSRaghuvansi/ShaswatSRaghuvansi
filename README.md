@@ -17,7 +17,7 @@
 <br>
 👨‍💻 All my projects are available in the [shaswatsraghuvansi.github.io](https://shaswatsraghuvansi.github.io/)
 <br>
-🔭 Know more about me and my experiences [My Resume](https://drive.google.com/file/d/1-qOyvu6zrT9uGPYnULMygT0agZHLRpdX/view?usp=share_link).
+🔭 Know more about me and my experiences [My Resume](https://drive.google.com/file/d/1sCVTI6MPwprlwRaVm_bmMfK_rb8e4n-B/view?usp=sharing).
 <br>
 🤝 I’m also reachable at shaswat.sr13@gmail.com
 
