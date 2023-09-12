@@ -15,7 +15,7 @@
 <br>
 💬 Ask me about HTML, CSS & JavaScript.
 <br>
-👨‍💻 All my projects are available in the [shaswatsraghuvansi.github.io](https://shaswatsraghuvansi.github.io/)
+👨‍💻 All my projects are available in the [shaswatsraghuvansi.github.io](https://ShaswatSRaghuvansi.github.io/)
 <br>
 🔭 Know more about me and my experiences [My Resume](https://drive.google.com/file/d/1sCVTI6MPwprlwRaVm_bmMfK_rb8e4n-B/view?usp=sharing).
 <br>
