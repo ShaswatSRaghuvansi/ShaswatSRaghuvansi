@@ -2,7 +2,7 @@
 <br>
  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+ 👋 +I'm+Shaswat Singh Raghuvansi;Aspiring+Full-Stack+Web+Developer+From+India.&%20Code&center=true&width=700&height=50&weight=700&size=25&duration=2000&pause=2000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+ 👋 +I'm+ Shaswat Singh Raghuvansi;Aspiring+👉Full-Stack+Web+Developer👈+From+India.&%20Code&center=true&width=700&height=50&weight=700&size=25&duration=2000&pause=2000">
 
 </p> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
@@ -15,15 +15,14 @@
 <br>
 💬 Ask me about HTML, CSS & JavaScript.
 <br>
+🔭 Know more about me and my experiences👉 [My Resume](https://drive.google.com/file/d/1sCVTI6MPwprlwRaVm_bmMfK_rb8e4n-B/view?usp=sharing). 👈
+<br>
 👨‍💻 All my projects are available in the [ShaswatSRaghuvansi.github.io](https://ShaswatSRaghuvansi.github.io/)
 <br>
-🔭 Know more about me and my experiences [My Resume](https://drive.google.com/file/d/1sCVTI6MPwprlwRaVm_bmMfK_rb8e4n-B/view?usp=sharing).
-<br>
-🤝 I’m also reachable at shaswat.sr13@gmail.com
 
 <br>
 
-📫 You can connect with me via this <a href="https://www.linkedin.com/in/shaswat-singh-raghuvansi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a> or by <a href="mailto:shaswat.sr13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/></a>.
+📬 You can connect with me via  <a href="https://www.linkedin.com/in/shaswat-singh-raghuvansi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a> or by <a href="mailto:shaswat.sr13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/></a>.
 
 <br>
 
