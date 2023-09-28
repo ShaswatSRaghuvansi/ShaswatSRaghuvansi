@@ -11,9 +11,7 @@
 <img align="right" alt="coding" width="375" src="https://img.devrant.com/devrant/rant/r_20148_pyyhm.jpg" height="250px">
 
 ## 💫 About Me:
-🌱 I’m currently enlightening myself with Java & Springboot.
-<br>
-💬 Ask me about HTML, CSS & JavaScript.
+🌱 I’m currently enlightening myself with **Java | SQL | JDBC | Maven | Hibernate | SpringBoot**.
 <br>
 🔭 Know more about me and my experiences👉 [My Resume](https://drive.google.com/uc?export=download&id=1sCVTI6MPwprlwRaVm_bmMfK_rb8e4n-B) 👈
 <br>
