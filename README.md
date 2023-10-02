@@ -34,6 +34,7 @@
 ![SpringBoot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;
 ![Hibernate](https://img.shields.io/badge/hibernate-bcae79?style=for-the-badge&logo=hibernate&logoColor=white)&nbsp;&nbsp;
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
 <br>
 
