@@ -1,5 +1,7 @@
-<a name="BuzzLightYear"></a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+<a name="BuzzLightYear"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 <br>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+ 👋 +I'm+ Shaswat Singh Raghuvansi;Aspiring+👉Full-Stack+Web+Developer👈+From+India.&%20Code&center=true&width=700&height=50&weight=700&size=25&duration=2000&pause=2000">
 
@@ -7,11 +9,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
 
-<img align="right" alt="coding" width="375" src="https://img.devrant.com/devrant/rant/r_20148_pyyhm.jpg" height="250px">
+<img align="right" alt="coding" width="375" src="https://img.devrant.com/devrant/rant/r_20148_pyyhm.jpg" height="250px" />
+
 
 ## 💫 About Me:
+
 🌱 I’m currently enlightening myself with **Java | SQL | JDBC | Maven | Hibernate | SpringBoot**.
 <br>
+
 🔭 Know more about me and my experiences👉 [My Resume](https://drive.google.com/uc?export=download&id=1sCVTI6MPwprlwRaVm_bmMfK_rb8e4n-B) 👈
 <br>
 
